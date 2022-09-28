@@ -1,0 +1,25 @@
+{
+  "name": "maildeliverysystem",
+  "version": "1.0.0",
+  "description": "it help in sent the mail to client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRINCE-PRASAD/Basics-of-SendGrid.git"
+  },
+  "author": "prince",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRINCE-PRASAD/Basics-of-SendGrid/issues"
+  },
+  "homepage": "https://github.com/PRINCE-PRASAD/Basics-of-SendGrid#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
